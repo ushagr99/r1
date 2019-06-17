@@ -1,0 +1,11 @@
+ul
+{
+  list-style-type:square;
+  color:green;
+}
+p{color:green}
+h1{color:blue;background-color:pink}
+h2{color:blue;background-color:pink}
+h3 li{color:green}
+h4{background-color:lightblue}
+img{border-style:solid}
